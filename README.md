@@ -35,7 +35,7 @@
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/<your_username>/str.git
+git clone https://github.com/Lion-Adler/str.git
 cd str
 pip install -r requirements.txt
 
